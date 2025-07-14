@@ -1,9 +1,0 @@
-LiDAR Sensor
-     ↓
-Obstacle Detection (Python)
-     ↓
-Path Logic
-     ↓
-Motor Control Unit
-     ↓
-Movement
